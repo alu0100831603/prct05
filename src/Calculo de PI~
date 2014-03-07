@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+print "Introduzca el valor de n: "
+for i in range():

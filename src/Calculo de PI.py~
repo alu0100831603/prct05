@@ -1,0 +1,10 @@
+#!/usr/bin/python
+suma=0.0
+for i in range(1,n+1):
+  x_i=float (i-1)/n
+  print("El valor de x_i es: ", x_i)
+  f(x_i)=float 4/(1+X_i**2)
+  suma=(1/n)*(suma+f(x_i))
+  print("El valor de f(x_i) es:", f(x_i))
+  print("El valor de pi es: ", suma)
+ 
